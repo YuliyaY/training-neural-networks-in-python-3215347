@@ -1,4 +1,5 @@
 # Training Neural Networks in Python 
+This is my own fork
 This is the repository for the LinkedIn Learning course Training Neural Networks in Python. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Training Neural Networks in Python ][lil-thumbnail-url]
